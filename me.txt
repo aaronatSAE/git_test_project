@@ -1,1 +1,1 @@
-what is in here?
+This is a standard .txt document.
