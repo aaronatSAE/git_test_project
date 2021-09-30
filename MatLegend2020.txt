@@ -1,0 +1,9 @@
+EVERY STUDENT:
+1. Make a new TEXT file
+2. Add text to it for your role
+3. Save it in your LOCAL REPO
+
+
+This is my example of a text file for my 
+
+We want sand dues for our level with droids

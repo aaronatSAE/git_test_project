@@ -1,0 +1,9 @@
+Leon Huang
+programmer
+illustrator
+
+delete monika.chr
+...
+monika.chr deleted successfully
+
+this is my world now
