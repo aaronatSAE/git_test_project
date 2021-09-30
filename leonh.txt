@@ -2,4 +2,8 @@ Leon Huang
 programmer
 illustrator
 
-I confirm we are adding Droids within our SandDune Scene.
+delete monika.chr
+...
+monika.chr deleted successfully
+
+this is my world now
